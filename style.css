@@ -396,7 +396,7 @@ section{
     transition: 0.5s ease;
 }
 .projects-box .projects-info:hover{
-    background: radial-gradient(rgba(212, 0, 255, 0.8)),var(--main-color);
+    background: radial-gradient(rgba(105, 5, 125, 0.8)),var(--main-color);
     transform: scale(1.1);
 }
 .projects-info h4{
